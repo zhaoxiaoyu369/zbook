@@ -1,0 +1,23 @@
+{
+  "name": "zbook",
+  "version": "1.0.0",
+  "description": "赵晓宇的电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoxiaoyu369/zbook.git"
+  },
+  "keywords": [],
+  "author": "zhaoxiaoyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhaoxiaoyu369/zbook/issues"
+  },
+  "homepage": "https://github.com/zhaoxiaoyu369/zbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
